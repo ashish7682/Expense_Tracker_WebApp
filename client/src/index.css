@@ -2,13 +2,10 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  
 }
 
-
-
 .content {
-  min-height: 77vh;
+  min-height: 80vh;
 }
 .navbar {
   background-color: rgba(0, 0, 255, 0.813) !important;
@@ -16,8 +13,6 @@
 .navbar-brand {
   color: white;
 }
-
-
 
 .btn1 {
   background-color: rgba(4, 4, 128, 0.363);
@@ -72,3 +67,27 @@ img {
 }
 
 /*transection page */
+
+/*------antd icons-------*/
+.anticon svg {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.active-icon {
+  color: black;
+}
+
+.inactive-icon {
+  color: gray;
+}
+
+.switch-icons
+{
+  border: 1.4px solid black;
+  border-radius: 6px;
+  padding: 6px 8px;
+  
+}
+
+/*------antd icons-------*/
