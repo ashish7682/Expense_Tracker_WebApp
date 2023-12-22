@@ -1,1 +1,1 @@
-Expense-Tracker-REST API
+Expense-Tracker-WebApp
