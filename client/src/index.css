@@ -15,7 +15,7 @@
 }
 
 .btn1 {
-  background-color: rgba(4, 4, 128, 0.363);
+  background-color: rgb(255, 0, 0);
   color: white;
   padding: 7px;
   border-radius: 10px;
@@ -82,12 +82,10 @@ img {
   color: gray;
 }
 
-.switch-icons
-{
+.switch-icons {
   border: 1.4px solid black;
   border-radius: 6px;
   padding: 6px 8px;
-  
 }
 
 /*------antd icons-------*/
