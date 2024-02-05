@@ -1,1 +1,1 @@
-Expense-Tracker-WebApp
+ExpenseTrackerWebApp
